@@ -95,9 +95,8 @@ The model was evaluated on a test set (20% split from the dataset) which was tra
 ---
 
 ## Results & Conclusion
-The hybrid framework effectively addresses class imbalance and combines probabilistic reasoning with deep learning capabilities. With an accuracy of **97.23%** and an F1-score of **51.52%**, this model demonstrates its potential for accurate bankruptcy prediction despite severe class imbalance.
+The hybrid framework effectively addresses class imbalance and combines probabilistic reasoning with deep learning capabilities. With an accuracy of 97.23% and an F1-score of 51.52%, this model demonstrates its potential for accurate bankruptcy prediction despite severe class imbalance.
 
 Future improvements could include exploring advanced ensemble techniques or incorporating additional financial indicators for better predictions.
-=======
-# Company-Bankruptcy-Prediction
->>>>>>> 536a5cae90781d8f37fe3dd6a0044408e520cecc
+
+
